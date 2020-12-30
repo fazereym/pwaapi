@@ -1,0 +1,24 @@
+{
+  "products" : [
+    {"id":1,"name":"Nile crocodile","category":"Fuscia"},
+    {"id":2,"name":"Sungazer, yellow-brown","category":"Teal"},
+    {"id":3,"name":"Gray heron","category":"Green"},
+    {"id":4,"name":"White-throated toucan","category":"Teal"},
+    {"id":5,"name":"Long-nosed bandicoot","category":"Turquoise"},
+    {"id":6,"name":"Beaver, eurasian","category":"Purple"},
+    {"id":7,"name":"Pelican, australian","category":"Violet"},
+    {"id":8,"name":"Snowy sheathbill","category":"Khaki"},
+    {"id":9,"name":"Pelican, great white","category":"Yellow"},
+    {"id":10,"name":"Bear, american black","category":"Violet"},
+    {"id":11,"name":"Mongoose, small indian","category":"Purple"},
+    {"id":12,"name":"Cobra, cape","category":"Goldenrod"},
+    {"id":13,"name":"Beaver, eurasian","category":"Goldenrod"},
+    {"id":14,"name":"Hare, arctic","category":"Teal"},
+    {"id":15,"name":"Squirrel, golden-mantled ground","category":"Aquamarine"},
+    {"id":16,"name":"Galapagos sea lion","category":"Pink"},
+    {"id":17,"name":"Blesbok","category":"Red"},
+    {"id":18,"name":"Cormorant (unidentified)","category":"Khaki"},
+    {"id":19,"name":"Ring-tailed possum","category":"Crimson"},
+    {"id":20,"name":"Grison","category":"Goldenrod"}
+  ]
+}
